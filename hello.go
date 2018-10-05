@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/e-planet/go_test/pckg/stringutil"
+	"github.com/e-planet/go_test/pkg/stringutil"
 )
 
 func main() {
